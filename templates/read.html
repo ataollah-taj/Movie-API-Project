@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<body>
+  <table border = 1>
+    {% for movie in query %}
+      <tr>
+        <th>
+        <a href = "/movie/{{ movie.movie_id }}"> {{ movie.title }} 
+        </a>
+        </th>
+        <td> {{ movie.rating }} </td>
+      </tr>
+    {% endfor %}
+  </table>
+</body>
+</html>
