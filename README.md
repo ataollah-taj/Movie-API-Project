@@ -37,8 +37,8 @@ Movie-API-Project
 
 Run MovieApp.py -> Go to browser and enter http://127.0.0.1:5000/ (default)
 
-View Current Movie List: Go to http://127.0.0.1:5000/read
-Add New Movie: Go to http://127.0.0.1:5000/create
-Delete Movie: Click on movie title -> Press delete
+View Current Movie List: Go to http://127.0.0.1:5000/read <br />
+Add New Movie: Go to http://127.0.0.1:5000/create <br />
+Delete Movie: Click on movie title -> Press delete <br />
 
 
